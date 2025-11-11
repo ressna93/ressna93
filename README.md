@@ -6,5 +6,9 @@
 
 #### 💫 레벨업을 향해 달려가는중⬆ :
 
+2025년 **10월 27일**, 프론트엔드 부트캠프(10기)를 시작으로 개발자의 길에 들어섰습니다.  
+매일 꾸준히 **복습과 공부**를 이어가며 실력을 다지고 있습니다.  
+현재 목표는 **프론트엔드 역량 강화**와 **정보처리산업기능사 자격 취득**입니다. ✨
+
 ![](https://github-readme-stats.vercel.app/api?username=ressna93&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ressna93&theme=dracula&hide_border=false)<br/>
